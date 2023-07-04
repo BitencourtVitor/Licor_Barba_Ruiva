@@ -10,7 +10,8 @@ Diante disso, como forma de buscar renda extra, foi desenvolvido um negócio de 
 
 ## Conclusão
 Além de ser o mais barato, o licor de maracujá ocupou quase 70% das vendas, o que aponta-o como principal sabor para divulgação e amostras nos anos seguintes.  
-Em um cenário oposto, a baixa quantidade em vendas no licor de chocolate expõe a necessidade da sua disseminação com o mesmo intuito: promover vendas afim de torná-lo mais conhecido.
+Em um cenário oposto, a baixa quantidade em vendas no licor de chocolate expõe a necessidade da sua disseminação com o mesmo intuito: promover vendas afim de torná-lo mais conhecido.  
+Cada cliente comprou em média 1,6 litros e isso denota a qualidade do produto, observa-se que existe uma boa taxa de recompra.
 
 O custo de produção varia de acordo com o sabor, mas o valor de venda segue um padrão de 30 reais, o que deve ser repensado afim de manter a saúde do negócio.
 
