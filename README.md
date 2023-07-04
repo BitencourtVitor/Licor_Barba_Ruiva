@@ -2,7 +2,7 @@
 
 ###### Aqui, você terá acesso a:
 - Arquivo .pbix para caso queira interagir;
-- Print do Dashboard feito em Power BI
+- Print do dashboard feito em Power BI
 
 ## Introdução
 A região nordestina é marcada pela festividade do São João no mês de Junho, junto com ele comidas e bebidas típicas do período.  
@@ -21,3 +21,5 @@ Apesar das conclusões acerca da análise do negócio, não foi possível traça
 - EXTRAÇÃO: Etapa feita manualmente, conforme aconteciam as vendas, as mesmas eram registradas nas planilhas.
 - TRANSFORMAÇÃO: Visto que já havia-se em vista o desenvolvimento de um projeto de análise dos dados, os mesmos foram armazenados de forma a otimizar a transformação, sendo necessário apenas correções ortográficas.
 - LOAD: Template criado no Figma buscando a apresentação visual mais agradável e bem ornamentada possível, considerando a paleta de tons escuros em consonância com a logo.
+
+![Aqui um print do dashboard](https://github.com/BitencourtVitor/Licor_Barba_Ruiva/blob/main/print_dashboard.png)
